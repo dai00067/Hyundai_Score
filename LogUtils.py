@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-    作者:       Peter
-    版本:       1.1
-    日期:       2019/05/24
-    项目名称：   HYUNDAI_Score_Calculation
-    python环境： 3.5
-"""
+
 import yaml
 import logging.config
 import os
