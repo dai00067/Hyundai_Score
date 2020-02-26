@@ -1,4 +1,5 @@
-# Hyundai_Score
+# OEM_Score
+Used to connect to the database, precess data and calculate scores before training machine learning algorithms.
 
     class Score(builtins.object)
      |  Methods defined here:
