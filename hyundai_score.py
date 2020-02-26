@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-    作者:       Liu Yuzhang
-    版本:       1.1
-    日期:       2019/06/13
-    项目名称：   HYUNDAI_Score_Calculation
-    python环境： 3.5
-"""
 
 import numpy as np
 import pandas as pd
