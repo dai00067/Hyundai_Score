@@ -1,8 +1,0 @@
-xml_out_file: './ubi_grade.xml'
-df_generate_path: './df_generate.csv'
-host: '223.203.9.34'
-db: 'user_test'
-user: 'hadoop'
-pswd: 'hive!@#123'
-port: 10000
-table: 'user_sample'
